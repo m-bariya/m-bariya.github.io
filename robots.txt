@@ -1,0 +1,1 @@
+User-agent: * Disallow: Sitemap: https://m-bariya.github.io/sitemap.xml
