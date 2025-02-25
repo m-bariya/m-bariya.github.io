@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a power sector specialist with technical roots in statistical signal processing, machine learning, and optimization. I have extensive experience working at the intersection of energy and computation across startups, academia, and international organizations.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research has focused on the development of algorithms and measurement methods for enhanced grid visibility in support of renewable integration, system resilience, and operational efficiency. Designing algorithmic tools that succeed within real-world constraints---such as measurement noise, system uncertainties, sensor coverage and resolution limitations, and human user needs---has been a persistant theme in my work. I have also worked on a diversity of energy system modeling, from network simulation to capacity expansion planning.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside the energy sector, my love of signal processing has, in the past, led me to work on image processing in domains such as agricultural automation and medical imaging. 
