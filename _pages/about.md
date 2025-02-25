@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a power sector specialist with technical roots in statistical signal processing, machine learning, and optimization. I have extensive experience working at the intersection of energy and computation across startups, academia, and international organizations.
+I am a power sector specialist with technical roots in statistical signal processing, machine learning, graph theory, and optimization. I have extensive experience working at the intersection of energy and computation across startups, academia, and international organizations.
 
-My research has focused on the development of algorithms and measurement methods for enhanced grid visibility in support of renewable integration, system resilience, and operational efficiency. Designing algorithmic tools that succeed within real-world constraints---such as measurement noise, system uncertainties, sensor coverage and resolution limitations, and human user needs---has been a persistant theme in my work. I have also worked on a diversity of energy system modeling, from network simulation to capacity expansion planning.
+My research has focused on developing algorithms and measurement methods for enhanced grid visibility to bolster renewable integration, system resilience, and operational efficiency. Designing algorithmic tools that succeed within real-world constraints---such as measurement noise, system uncertainties, sensor coverage and resolution limitations, and human user needs---has been a consistent theme in my work. I have also worked on a diversity of energy system modeling projects, from network simulation to capacity expansion planning.
 
-Outside the energy sector, my love of signal processing has, in the past, led me to work on image processing in domains such as agricultural automation and medical imaging. 
+Outside the energy sector, my love of signal processing has, in the past, led me to work in domains such as agricultural automation and medical imaging. 
