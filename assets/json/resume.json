@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Mohini Bariya",
+    "title": "Principal Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "",
+    "phone": "",
+    "url": "https://m-bariya.github.io",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Washington DC",
       "countryCode": "US",
-      "region": "California"
+      "region": ""
     },
     "profiles": [
       {
@@ -24,38 +24,73 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "World Bank",
+      "position": "Energy Specialist",
+      "url": "",
+      "startDate": "2024",
+      "endDate": "",
+      "summary": "Working on diverse energy sector projects, spanning analytical work and infrastructure project implementation.",
+      "highlights": ["Modeling", "Energy Sector Planning"]
+    },
+    {
+      "name": "Rhiza Research",
+      "position": "Principal Scientist",
+      "url": "",
+      "startDate": "2024",
+      "endDate": "",
+      "summary": "Director at Rhiza Research, a non-profit focused on developing open technologies for people and the planet, with a special focus on energy and weather forecasting.",
+      "highlights": ["Grid Measurement", "Power Quality"]
+    },
+    {
+      "name": "nLine",
+      "position": "Research Scientist",
+      "url": "",
+      "startDate": "2022-01-01",
+      "endDate": "2024-01-01",
+      "summary": "Developed innovative sensing and data analytics methods to enhance situational awareness, investment targeting, and impact evaluation for electric grids in Sub-Saharan Africa. Collaborated with diverse partners, including academics and utilities, and secured multiple research grants.",
+      "highlights": ["Grid Measurement", "Statistical Inference", "Impact Evaluation"]
+    },    
+    {
+      "name": "International Energy Agency",
+      "position": "Consultant",
+      "url": "",
+      "startDate": "2023-12-01",
+      "endDate": "2024-03-01",
+      "summary": "provided analysis and modeling focused on energy access for the IEA's battery report; worked with industry and academic experts to build models projecting global battery capacity additions..",
+      "highlights": ["Modeling", "Battery Storage"]
+    },    
+    {
+      "name": "PingThings",
+      "position": "Data Team Lead",
+      "url": "",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-03",
+      "summary": "Led PingThings' data science team to develop transmission monitoring tools leveraging novel high resolution sensors, high performance data storage and access systems, and innovative algorithms for large American utilities. I also led execution and delivery of a large Department of Energy research grant on applications of machine learning for power systems event detection.",
+      "highlights": ["Modeling", "Battery Storage"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Berkeley Town Homes Senior Center",
+      "location": "Berkeley, California",
+      "position": "Solar Design Consultant",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Helped a local senior center consider the costs and benefits of an on-site solar+storage system.",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of California, Berkeley",
+      "location": "Berkeley, California",
+      "url": "",
+      "area": "Electrical Engineering and Computer Science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2016",
+      "endDate": "2021",
+      "gpa": "3.9",
+      "courses": ["Statistical Signal Processing", "Reinforcement Learning", "Robust Optimization"]
     }
   ],
   "awards": [
@@ -68,48 +103,6 @@
     }
   ],
   "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
   ],
   "publications": [
     {
