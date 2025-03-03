@@ -61,12 +61,30 @@
     },    
     {
       "name": "PingThings",
-      "position": "Data Team Lead",
+      "position": "Data Team Lead & Power Specialist",
       "url": "",
       "startDate": "2021-01-01",
       "endDate": "2022-01-03",
       "summary": "Led PingThings' data science team to develop transmission monitoring tools leveraging novel high resolution sensors, high performance data storage and access systems, and innovative algorithms for large American utilities. I also led execution and delivery of a large Department of Energy research grant on applications of machine learning for power systems event detection.",
       "highlights": ["Modeling", "Battery Storage"]
+    },
+    {
+      "name": "TERRA-MEPP",
+      "position": "Researcher",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "2016-01-10",
+      "summary": "Developed image processing algorithms to estimate sorghum biomass from field images collected by a robot, improving efficiency in biofuel development. Participated in field tests at the University of Illinois, Urbana-Champaign, and mentored visiting student researchers from Brazil.",
+      "highlights": ["Agricultural Automation", "Computer Vision", "Robotics"]      
+    },
+    {
+      "name": "Inscopix",
+      "position": "Research Intern",
+      "url": "",
+      "startDate": "2015-05-01",
+      "endDate": "2015-08-15",
+      "summary": "Developed a simulator to generate accurate synthetic microscopic images of neuronal activity, incorporating biological, optical, and imaging process factors. Utilized the simulator to evaluate and optimize image processing algorithms.",
+      "highlights": ["Medical Imaging"]
     }
   ],
   "volunteer": [
@@ -74,10 +92,10 @@
       "organization": "Berkeley Town Homes Senior Center",
       "location": "Berkeley, California",
       "position": "Solar Design Consultant",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "01-01-2020",
+      "endDate": "01-01-2021",
       "summary": "Helped a local senior center consider the costs and benefits of an on-site solar+storage system.",
-      "highlights": []
+      "highlights": ["Rooftop solar"]
     }
   ],
   "education": [
@@ -90,42 +108,39 @@
       "startDate": "2016",
       "endDate": "2021",
       "gpa": "3.9",
-      "courses": ["Statistical Signal Processing", "Reinforcement Learning", "Robust Optimization"]
+      "courses": ["Statistical Signal Processing", "Reinforcement Learning", "Robust Optimization", "Energy Economics"]
+    },
+    {
+      "institution": "University of California, Berkeley",
+      "location": "Berkeley, California",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "Bachelor's",
+      "startDate": "2012",
+      "endDate": "2016",
+      "gpa": "3.95",
+      "courses": ["Medical Imaging", "Probability & Statistics"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Samuel Silver Memorial Scholarship",
+      "date": "2016-01-01",
+      "awarder": "UC Berkeley EECS",
+      "url": "https://www2.eecs.berkeley.edu/Students/Awards/18/",
+      "summary": "Presented annually to an Electrical Engineering or Computer Sciences undergraduate or graduate student who best combines intellectual achievement in science and engineering (in the classroom or in research activities) with serious humanistic and cultural interests. Recipients possess outstanding accomplishments in music, art, and other areas of the humanities."
+    },
+    {
+      "title": "Berkeley EECS Excellence Award",
+      "date": "2016-01-01",
+      "awarder": "UC Berkeley EECS",
+      "url": "",
+      "summary": "Supplementary graduate fellowship based on outstanding academic performance."
     }
   ],
   "certificates": [
   ],
   "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
   ],
   "skills": [
     {
@@ -144,13 +159,18 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
+      "language": "Hindi",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Intermediate",
       "icon": ""
     }
   ],
@@ -181,13 +201,5 @@
     }
   ],
   "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
   ]
 }
