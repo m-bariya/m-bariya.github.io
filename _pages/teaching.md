@@ -7,6 +7,4 @@ nav: true
 nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+Teaching has continually been an important and enriching part of my academic and professional life. I have deeply enjoyed and appreciated the opportunity to engage with, teach, and---in turn---learn from a great many thoughtful students over the years. I have experience teching technical topics in energy and computation to a diversity of students, from engineering graduate students to elementary school science teachers. Descriptions of my teaching engagments, and some student testimonials, are provided here. 
