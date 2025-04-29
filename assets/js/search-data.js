@@ -59,7 +59,12 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "projects-scientific-illustration",
+    },{id: "projects-art",
+          title: 'Art',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/art/";
+            },},{id: "projects-scientific-illustration",
           title: 'Scientific Illustration',
           description: "",
           section: "Projects",handler: () => {
