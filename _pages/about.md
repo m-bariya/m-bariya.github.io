@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a power sector specialist with technical roots in statistical signal processing, machine learning, graph theory, and optimization. I have extensive experience working at the intersection of energy and computation across startups, academia, and international organizations.
+I am a power sector specialist with technical roots in statistical signal processing, machine learning, graph theory, and optimization. I have extensive experience working at the intersection of energy and computation across startups, academia, and international organizations. I hold a bachelor's degree in Computer Science and a Ph.D. in Electrical Engineering and Computer Sciences, both from the University of California, Berkeley.
 
 My research has focused on developing algorithms and measurement methods for enhanced grid visibility to bolster renewable integration, system resilience, and operational efficiency. Designing algorithmic tools that succeed within real-world constraints---such as measurement noise, system uncertainties, sensor coverage and resolution limitations, and human user needs---has been a consistent theme in my work. I have also worked on a diversity of energy system modeling projects, from network simulation to capacity expansion planning.
 
