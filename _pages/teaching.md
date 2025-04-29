@@ -11,6 +11,18 @@ Teaching is central to my academic and professional life. I have been fortunate 
 
 I have experience teaching technical topics in energy and computation to a diversity of students, from engineering graduate students to elementary school science teachers. Descriptions of my teaching engagments, and some student testimonials, are provided here. 
 
+#### Alameda Elementary Environmental Literacy Institute
+##### Fall 2019
+The Alameda Elementary Literacy Institute (AEEL) connects educators with scientists to explore emerging topics in science and engineering, equipping teachers with new content to enrich their classroom curricula.  introduced teachers to the fundamentals of electricity, power generation technologies, and power grids. I developed a variety of activities to communicate key concepts at a level that was accessible and engaging to non-engineers, including short readings, a hands-on activity to develop and test a solar oven, and an interactive game that introduced the challenge of continually balancing power supply and demand in the electric grid. Read more about the session [here](https://tenstrands.org/energy-gardens-and-engineering-alameda-elementary-environmental-literacy-summer-institute-2019/).
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+      {% include figure.liquid path="assets/img/aeel.jpg" title="Teachers playing an electric grid game" class="img-fluid rounded z-depth-1" %}
+    </div>
+  </div>
+ </div>
+
 
 #### Introduction to Electrical Power Systems 
 ##### [EE137A], Fall 2020, UC Berkeley
