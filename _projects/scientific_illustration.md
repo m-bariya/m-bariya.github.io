@@ -8,7 +8,7 @@ category: fun
 related_publications: false
 ---
 
-My artistic and technical interests come together in my scientific illustration work. I believe that beautiful and effective visuals can bring more clarity and joy to science and engineering communication. I have worked as a science illustrator for the [Berkeley Science Review](https://berkeleysciencereview.com/), and I continue to develop technical visualizations for my own work. If you have an illustration project, please reach out!
+I feel engineering and the sciences could do with more beautiful visualizations. I have worked as a science illustrator for the [Berkeley Science Review](https://berkeleysciencereview.com/), and I continue to develop technical visualizations for my own work. If you have an illustration project you might be interested in collaborating on, please write to me.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -25,7 +25,7 @@ My artistic and technical interests come together in my scientific illustration 
     From left to right: illustration for the paper "Wearable Biosensors for Body Computing", illustration detail from the Berkeley Science Review, and illustration detail from a blog post presenting an approach to grid outage detection from end-point measurements.
 </div>
 
-Here are a few full-spread pages of my illustration and design work from the Berkeley Science Review.
+Here are a few full-spreads showing my illustration and design work from the Berkeley Science Review.
 
 <div class="container">
   <div class="row">

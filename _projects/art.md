@@ -8,7 +8,7 @@ category: fun
 related_publications: false
 ---
 
-I enjoy making art in many media, particularly pastel, linoprinting, and oil. Thanks to my [aunt](https://www.suhitasketch.com/), I have made art from when I was very young, although I continually wish to spend more time on it.
+Thanks to my [aunt](https://www.suhitasketch.com/), I have been drawing and painting from when I was very young, although I continually wish to spend more time on it. Today, I enjoy working in many media, particularly pastel, linoprinting, and oil. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -25,7 +25,7 @@ I enjoy making art in many media, particularly pastel, linoprinting, and oil. Th
     Cracking an egg in oil pastel, a woman with pomegranates in oil, and a linocut of two views of a tidepool.
 </div>
 
-My aunt is also the person who introduced me to watercolor painting on location.
+My aunt also introduced me to watercolor painting on location.
 
 <div class="container">
   <div class="row">
