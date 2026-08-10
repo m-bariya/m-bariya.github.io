@@ -9,6 +9,13 @@ body {
   font-family: "Karla", -apple-system, sans-serif;
 }
 
+// Klein blue border on content images (profile photo, publication previews,
+// project thumbnails, videos)
+figure img,
+img.preview {
+  border: 1px solid var(--global-theme-color);
+}
+
 h1,
 h2,
 h3,
@@ -782,12 +789,13 @@ footer.sticky-bottom {
 
         abbr {
           display: inline-block;
-          background-color: var(--global-theme-color);
+          background-color: transparent;
+          border: 1px solid var(--global-theme-color);
           margin-bottom: 0.5rem;
-          color: var(--global-card-bg-color) !important;
+          color: var(--global-theme-color) !important;
 
           a {
-            color: white;
+            color: var(--global-theme-color);
 
             &:hover {
               text-decoration: none;
