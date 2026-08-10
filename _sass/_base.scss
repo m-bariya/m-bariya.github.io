@@ -4,6 +4,20 @@
 
 // Typography
 
+html,
+body {
+  font-family: "Karla", -apple-system, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Cormorant Garamond", serif;
+}
+
 p,
 h1,
 h2,
@@ -17,6 +31,12 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+}
+
+p {
+  font-weight: 200;
+  line-height: 1.75;
+  color: var(--global-body-text-color);
 }
 
 hr {
@@ -192,6 +212,16 @@ ul.task-list input[type="checkbox"] {
 
 // Profile
 
+.profile-flex-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+
+  &.profile-right {
+    flex-direction: column-reverse;
+  }
+}
+
 .profile {
   width: 100%;
 
@@ -207,23 +237,34 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-.profile.float-right {
-  margin-left: 1rem;
-}
-
-.profile.float-left {
-  margin-right: 1rem;
+.profile-content {
+  min-width: 0;
 }
 
 @media (min-width: 576px) {
+  .profile-flex-wrap {
+    flex-direction: row;
+    align-items: center;
+    gap: 2rem;
+
+    &.profile-right {
+      flex-direction: row-reverse;
+    }
+  }
+
   .profile {
     width: 30%;
+    flex: 0 0 30%;
 
     .address {
       p {
         display: block;
       }
     }
+  }
+
+  .profile-content {
+    flex: 1;
   }
 }
 
@@ -284,11 +325,11 @@ ul.task-list input[type="checkbox"] {
   }
 
   .navbar-brand {
-    color: var(--global-text-color);
+    color: var(--global-theme-color);
   }
 
   .navbar-nav .nav-item .nav-link {
-    color: var(--global-text-color);
+    color: var(--global-theme-color);
 
     &:hover {
       color: var(--global-hover-color);
@@ -580,6 +621,10 @@ footer.sticky-bottom {
 .post-title {
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
+  }
+
+  span.font-weight-bold {
+    color: var(--global-theme-color);
   }
 }
 

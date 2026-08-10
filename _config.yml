@@ -188,6 +188,7 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - assets/jupyter/
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -442,7 +443,7 @@ third_party_libraries:
     version: "5.5.0"
   google_fonts:
     url:
-      fonts: "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&display=swap"
+      fonts: "https://fonts.googleapis.com/css?family=Karla:200,300,400,500,600,700|Cormorant+Garamond:300,400,500,600,700|Material+Icons&display=swap"
   highlightjs:
     integrity:
       css:
@@ -625,7 +626,6 @@ jekyll_get_json:
     json: assets/json/resume.json # it can also be an url
 
 jsonresume:
-  - basics
   - work
   - education
   - publications
