@@ -7,6 +7,18 @@
   font-style: normal;
 }
 
+.cv-section .list-group-item {
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid var(--global-divider-color);
+  padding-left: 0;
+  padding-right: 0;
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
 .cv-section {
   margin-top: 2.5rem;
   padding-top: 1.5rem;
