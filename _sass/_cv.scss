@@ -23,12 +23,86 @@
   margin-top: 2.5rem;
   padding-top: 1.5rem;
   border-top: 1px solid var(--global-divider-color);
+  scroll-margin-top: 90px;
 
   &:first-child {
     margin-top: 1.5rem;
     padding-top: 0;
     border-top: none;
   }
+}
+
+/*****************************
+ * Vertical timeline nav
+ *****************************/
+
+.teaching-timeline {
+  position: relative;
+  margin: 2rem 0 3rem;
+  padding-left: 2rem;
+
+  &::before {
+    content: "";
+    position: absolute;
+    left: 4px;
+    top: 8px;
+    bottom: 8px;
+    width: 1px;
+    background: var(--global-divider-color);
+  }
+}
+
+.teaching-timeline-item {
+  position: relative;
+  display: block;
+  padding-bottom: 1.75rem;
+  text-decoration: none;
+
+  &:last-child {
+    padding-bottom: 0;
+  }
+
+  &::before {
+    content: "";
+    position: absolute;
+    left: -2rem;
+    top: 0.3rem;
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    background: var(--global-bg-color);
+    border: 2px solid var(--global-theme-color);
+  }
+
+  &:hover .teaching-timeline-title {
+    color: var(--global-theme-color);
+  }
+}
+
+.teaching-timeline-date {
+  display: block;
+  font-family: "Karla", sans-serif;
+  font-size: 0.8rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  color: var(--global-text-color-light);
+  margin-bottom: 0.15rem;
+}
+
+.teaching-timeline-title {
+  display: block;
+  font-family: "Cormorant Garamond", serif;
+  font-size: 1.3rem;
+  color: var(--global-text-color);
+  transition: color 0.15s ease-in-out;
+}
+
+.teaching-timeline-course {
+  font-family: "Karla", sans-serif;
+  font-size: 0.8rem;
+  color: var(--global-text-color-light);
+  margin-left: 0.4rem;
 }
 
 div.container-link-button {
