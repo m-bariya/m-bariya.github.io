@@ -7,9 +7,11 @@ nav: true
 nav_order: 4
 ---
 
-Teaching is central to my academic and professional life. I have been fortunate to engage with, teach, and learn from a great many wonderful students over the years.
-
 I have experience teaching technical topics in energy and computation to a diversity of students, from engineering graduate students to elementary school science teachers. Descriptions of my teaching engagments, and some student testimonials, are provided here. 
+
+#### Electric Power Systems 
+##### [ER254], Spring 2026, Energy & Resources Group, UC Berkeley
+I was the lecturer for this course which provided an engineering introduction to power systems for a diverse cohort of 35 students.
 
 #### Alameda Elementary Environmental Literacy Institute
 ##### Fall 2019
