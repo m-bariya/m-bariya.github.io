@@ -39,20 +39,71 @@
 
     <h2 id="interests">Interests</h2>
     <!-- Each interest is an <h3> plus paragraphs; it appears in the sidebar
-         automatically. The text below is a first draft seeded from the old bio,
-         CV and publications. Rewrite freely. -->
+         automatically. To add small images and links under an interest, put
+         this after its paragraph (both parts are optional):
 
-    <h3>Grid measurement and visibility</h3>
-    <p>Electric grids are measured at ever finer resolution, but turning noisy, incomplete measurements into a reliable picture of what the grid is doing is still hard. I work on algorithms and measurement methods for grid visibility, including topology and impedance estimation, event detection and clustering, and power quality monitoring, with a focus on high-resolution sensors such as PMUs.</p>
+         <div class="interest-extras">
+           <div class="circles">
+             <img src="/img/interests/NAME.jpg" alt="..." title="..." loading="lazy">
+           </div>
+           <p class="more-links"><a class="more" href="https://...">Link text</a></p>
+         </div>
+    -->
 
-    <h3>Renewable integration and energy planning</h3>
-    <p>Integrating renewables and storage, and extending reliable electricity to the people who still lack it, depends on good models and good data. I am interested in system optimization and capacity expansion planning, battery storage, and measuring power quality and reliability, including in Sub-Saharan Africa.</p>
+    <h3>Power system measurement and monitoring</h3>
+    <p>I am interested in sensing technologies and data analytics to support situational awareness and decision-making across time scales in the power grid. 
+      I have worked with a variety of sensors -- synchrophasors, smart meters, plug-point sensors -- on diverse applications, including topology estimation, transmission event detection and classification, impact evaluation of grid investments, and power quality monitoring.
+      My dissertation work focused on developing algorithms for grid monitoring that work under real-world constraints such as noise, limited sensing, and human user needs. I went on to develop and deploy grid monitoring tools for transmission utilities, leveraging high-resolution sensors, particularly
+      in the context of renewable integration, novel large loads, and grid enhancing technologies; as part of that work, I led the delivery of a Department of Energy grant on machine learning for transmission event detection and classification. I remain interested in improving visibility at the grid edge
+      with practical sensor and data constraints.
+    </p>
+    <div class="interest-extras">
+      <p class="more-links"><a class="more" href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/Archive/EECS-2021-196.pdf">Dissertation</a><a class="more" href="https://www.osti.gov/biblio/1864556">DOE grant</a></p>
+      <div class="circles">
+        <img src="/img/interests/toptools.jpg" alt="Topology identification" title="Topology identification" loading="lazy">
+        <img src="/img/interests/threephase.jpg" alt="Three-phase topology" title="Three-phase topology" loading="lazy">
+        <img src="/img/interests/clusters.jpg" alt="Event clustering" title="Event clustering" loading="lazy">
+        <img src="/img/interests/spectral.jpg" alt="Spectral analysis of synchrophasor data" title="Spectral analysis of synchrophasor data" loading="lazy">
+      </div>
+    </div>
 
-    <h3>Signal processing and machine learning</h3>
-    <p>I came to energy from statistical signal processing and still approach problems that way: models that are honest about noise, uncertainty, and limited sensing, and algorithms that people can understand and use. Past work includes compressed sensing, probabilistic streaming clustering, and learning from synchrophasor data.</p>
+    <h3>Optimization for grid operations and planning</h3>
+    <p>I have applied optimization techniques to power systems applications including capacity expansion planning. I worked with the power systems planning team at the World Bank, where optimized power systems plans informed economic and financial analyses of Bank projects, and supported countries with long-term policy development.
+      I led a CCAI grant to develop open data and tools that enable ML solver accelerations for the planning problem. At operational time scales, I have worked on
+      optimization of distributed energy resources to provide grid services or defer grid investments.
+    </p>
+    <div class="interest-extras">
+      <p class="more-links"><a class="more" href="https://rhizaresearch.org/seer-explorer">SEER</a></p>
+    </div>
 
-    <h3>Imaging and automation</h3>
-    <p>Earlier in my career I worked on computer vision and medical imaging, from estimating sorghum biomass from robot-collected field images to simulating microscope images of neuronal activity.</p>
+    <h3>Global south grids</h3>
+    <p>I am interested in the particular challenges facing power grids in the global south, including widespread power quality issues and high technical losses that incur social, environmental, and financial costs.
+      I have worked on new technologies that 
+    </p>
+    <div class="interest-extras">
+      <p class="more-links"><a class="more" href="https://rhizaresearch.org/#power-equality">Power equality</a><a class="more" href="https://nline.io/">nLine</a><a class="more" href="https://arxiv.org/abs/2506.21311">Voltage and technical losses</a></p>
+      <div class="circles">
+        <img src="/img/interests/drc.jpg" alt="Power quality at healthcare facilities in the DRC" title="Power quality at healthcare facilities in the DRC" loading="lazy">
+        <img src="/img/interests/loss.jpg" alt="Technical loss model" title="Technical loss model" loading="lazy">
+      </div>
+    </div>
+
+    <h3>Weather and remote sensing</h3>
+    <p>I work on data and tools to support weather forecasting and remote sensing, as part of the Nimbus program.</p>
+    <div class="interest-extras">
+      <p class="more-links"><a class="more" href="https://weather-skills.org/">Weather skills</a></p>
+    </div>
+
+    <h3>Applied statistics and machine learning</h3>
+    <p>I am broadly interested in applied statistics and machine learning in the energy sector and beyond. I have developed machine learning models for agricultural automation and medical imaging.
+      I provided technical consulting for the statistically rigorous design of clinical trials.
+    </p>
+    <div class="interest-extras">
+      <div class="circles">
+        <img src="/img/interests/sorghum.jpg" alt="Sorghum height estimation" title="Sorghum height estimation" loading="lazy">
+        <img src="/img/interests/labscopes.jpg" alt="Microscope image simulation" title="Microscope image simulation" loading="lazy">
+      </div>
+    </div>
 
     <h2 id="contact">Contact</h2>
     <p><a href="mailto:mohini@berkeley.edu">mohini@berkeley.edu</a></p>

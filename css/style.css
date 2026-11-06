@@ -420,6 +420,25 @@ figure img {
   align-items: start;
 }
 
+/* small images and links under an interest */
+.interest-extras {
+  margin: 4px 0 8px;
+}
+
+.circles {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin: 12px 0 4px;
+}
+
+.circles img {
+  width: 76px;
+  height: 76px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
 figure.wide {
   margin: 20px 0 6px;
 }
